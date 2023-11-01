@@ -14,7 +14,9 @@
 
 ## Work Experience
 
-### Fullstack Development @ Independent Contractor
+### Fullstack Developer @ Independent Contractor
+
+- work with Kwickbit on frontend side
 
 ### Senior Software Engineer @ Cisco
 
