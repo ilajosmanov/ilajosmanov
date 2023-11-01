@@ -1,16 +1,62 @@
-### Hi there 👋
+# Illia Osmanov
 
-<!--
-**ilajosmanov/ilajosmanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Software Engineer | 🌍 Kyiv (now in Tallinn) | 💼 9+ years of web development experience
 
-Here are some ideas to get you started:
+## Open Source Contributions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [effector](http://effector.dev)
+- [forest](https://www.npmjs.com/package/forest)
+- [vue-google-charts](https://github.com/devstark-com/vue-google-charts)
+
+## Contact
+
+📧 [me@osmanov.dev](mailto:me@osmanov.dev)
+📱 +372 559 111 25
+🐦 [Twitter](https://twitter.com/illiaosmanov)
+
+## Work Experience
+
+### Fullstack Development @ Independent Contractor
+
+### Senior Software Engineer @ Cisco
+
+- Projects: [Webex](https://www.webex.com), [Vidcast](https://vidcast.io)
+- Responsibilities: Audio/video processing, real-time updates, PWA
+- Technologies: Vue, React, TypeScript, Golang
+
+### Teacher @ Beetroot Academy
+
+- Taught HTML, CSS, JS/TS
+
+### Senior Frontend Developer @ Viax
+
+- Created dynamic forms, GraphQL schemas
+- Technologies: Vue, GraphQL, TypeScript
+
+### Frontend Developer @ Visyond
+
+- Optimized UI, handled legacy code
+- Technologies: TypeScript, Angular, jQuery
+
+### Freelance Frontend Developer
+
+- Short-term contracts for landing pages, widgets, plugins
+
+## Technologies
+
+- HTML5, CSS3, Tailwind
+- jQuery, Vue, React, Angular
+- Effector, RxJS, Vuex, Redux, GraphQL
+- TypeScript, JavaScript, Golang
+- Docker
+- Node.js
+- PostreSQL, Mongo
+
+## Languages
+
+🇺🇸 English (Upper-Intermediate)
+🇺🇦 Ukrainian (Native)
+
+## Education
+
+- Bachelor's in Physical & Computer Science, Sukhomlinsky National University
