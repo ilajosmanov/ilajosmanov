@@ -10,8 +10,7 @@
 
 ## Contact
 
-📧 [me@osmanov.dev](mailto:me@osmanov.dev)
-🐦 [Twitter](https://twitter.com/illiaosmanov)
+📧 [me@osmanov.dev](mailto:me@osmanov.dev) | 🐦 [Twitter](https://twitter.com/illiaosmanov)
 
 ## Work Experience
 
@@ -53,8 +52,7 @@
 
 ## Languages
 
-🇺🇸 English (Upper-Intermediate)
-🇺🇦 Ukrainian (Native)
+🇺🇸 English | 🇺🇦 Ukrainian
 
 ## Education
 
