@@ -18,23 +18,23 @@
 
 ### Senior Software Engineer @ Cisco
 
-- Projects: [Webex](https://www.webex.com), [Vidcast](https://vidcast.io)
-- Responsibilities: Audio/video processing, real-time updates, PWA
-- Technologies: Vue, React, TypeScript, Golang
+- projects: webex, vidcast
+- responsibilities: Audio/video processing, real-time updates, PWA
+- technologies: Vue, React, TypeScript, Golang
 
 ### Teacher @ Beetroot Academy
 
-- Taught HTML, CSS, JS/TS
+- taught HTML, CSS, JS/TS
 
 ### Senior Frontend Developer @ Viax
-
-- Created dynamic forms, GraphQL schemas
-- Technologies: Vue, GraphQL, TypeScript
+- projects: viax
+- responsibilities: core engine, dynamic forms, graphql schemas, public api
+- technologies: Vue, GraphQL, TypeScript
 
 ### Frontend Developer @ Visyond
-
-- Optimized UI, handled legacy code
-- Technologies: TypeScript, Angular, jQuery
+- projects: visyond
+- responsibilities: optimized UI, handled legacy code
+- technologies: TypeScript, Angular, jQuery
 
 ### Freelance Frontend Developer
 
