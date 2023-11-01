@@ -11,7 +11,6 @@
 ## Contact
 
 📧 [me@osmanov.dev](mailto:me@osmanov.dev)
-📱 +372 559 111 25
 🐦 [Twitter](https://twitter.com/illiaosmanov)
 
 ## Work Experience
