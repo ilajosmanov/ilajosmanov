@@ -3,9 +3,6 @@
 👨‍💻 Software Engineer | 🌍 Kyiv (now in Tallinn) | 💼 9+ years of web development experience
 
 ## Open Source Contributions
-
-- [effector](http://effector.dev)
-- [forest](https://www.npmjs.com/package/forest)
 - [vue-google-charts](https://github.com/devstark-com/vue-google-charts)
 
 ## Contact
